@@ -10,6 +10,12 @@ I am pursuing a bachelor's degree in Data Science to solidify my understanding o
 * Visual Analytics - HTML, JS, Tableau
 
 ## Notable Projects 
+<img src="https://github.com/Mohamed-Elmz/Mohamed-Elmz/blob/main/Quora.jpg" width="256" >
+
+* Quora Sincerity Classification
+
+Tools: Sklearn, Gensim, 
+[Repository](https://github.com/Mohamed-Elmz/Quora_Sincerity_Classification)
 
 
 
