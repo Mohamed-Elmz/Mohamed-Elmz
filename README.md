@@ -13,9 +13,8 @@ I am pursuing a bachelor's degree in Data Science to solidify my understanding o
 ### Quora Sincerity Classification
 <img src="https://github.com/Mohamed-Elmz/Mohamed-Elmz/blob/main/Quora.jpg" width="200" >
 
-* Identified insincere questions by combining Natural Language Processing methods (ie. tokenization and word embedding) with Machine Learning algorithms.
+Identified insincere questions by combining Natural Language Processing methods (ie. tokenization and word embedding) with Machine Learning algorithms. Achieved a top 10th percentile ranking on Kaggle with an F1-score of 87.9, showcasing the classifier's effectiveness at identifying inflammatory posts. Most importantly, this analysis was part of Quora's initiative to improve the user experience and moderate posts ethically.
 
-* Achieved a top 10th percentile ranking on Kaggle with an F1-score of 87.9, showcasing the classifier's effectiveness at identifying inflammatory posts.
 
 [Repository](https://github.com/Mohamed-Elmz/Quora_Sincerity_Classification)
 
