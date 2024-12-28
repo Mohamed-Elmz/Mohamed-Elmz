@@ -11,7 +11,7 @@ I am pursuing a bachelor's degree in Data Science to solidify my understanding o
 
 ## Notable Projects 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.psu.edu/mohamedelmzpsu/)  
+
 
 
 
