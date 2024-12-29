@@ -19,10 +19,11 @@ Identified insincere questions by combining Natural Language Processing methods 
 [Repository](https://github.com/Mohamed-Elmz/Quora_Sincerity_Classification)
 
 ### Efficient Finacial Document Processing with LLM's
+<img src="https://github.com/Mohamed-Elmz/Mohamed-Elmz/blob/main/SEC.png" width="200" >
 
-Developed an interpretable regression model to forecast high-yielding stocks and build a portfolio that outperforms the returns of the S&P 500 index. Using Large Language Model prompt engineering and machine learning pipelines on unstructured financial data, our model generated a 33 percent increase in cumulative and percentage return.
+Developed an interpretable regression model to forecast high-yielding stocks and build a portfolio that outperforms the returns of the S&P 500 index. Using Large Language Model prompt engineering and machine learning pipelines on unstructured financial data, our model generated a 33 percent increase in cumulative and percentage return. Background, literature review, methodology, and results are all compiled in a final report.
 
-
+[Repository](https://github.com/Mohamed-Elmz/Supporting_Fundamental_Analysis/tree/main)
 
 
 
